@@ -26,8 +26,6 @@
 
 ## 🛠️ Tech Stack
 
-## 🛠️ Tech Stack
-
 ### 👨‍💻 Programming
 <p>
 <img src="https://skillicons.dev/icons?i=python,mysql" />
