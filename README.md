@@ -26,34 +26,68 @@
 
 ## 🛠️ Tech Stack
 
-### 👨‍💻 Programming & Data
+## 🛠️ Tech Stack
+
+### 👨‍💻 Programming
 <p>
 <img src="https://skillicons.dev/icons?i=python,mysql" />
 </p>
 
-### 📊 Data Science & ML
+---
+
+### 📊 Data Analysis & Processing
 <p>
-<img src="https://skillicons.dev/icons?i=python" />
 <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas"/>
 <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy"/>
-<img src="https://img.shields.io/badge/ScikitLearn-F7931E?style=flat&logo=scikit-learn"/>
+<img src="https://img.shields.io/badge/EDA-Exploratory%20Data%20Analysis-blue"/>
+<img src="https://img.shields.io/badge/Feature%20Engineering-orange"/>
 </p>
 
-### 🧠 Deep Learning & NLP
+---
+
+### 🤖 Machine Learning
+<p>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn"/>
+<img src="https://img.shields.io/badge/Supervised%20Learning-green"/>
+<img src="https://img.shields.io/badge/Unsupervised%20Learning-blue"/>
+<img src="https://img.shields.io/badge/Time%20Series-purple"/>
+</p>
+
+---
+
+### 🧠 Deep Learning
 <p>
 <img src="https://skillicons.dev/icons?i=pytorch" />
-<img src="https://img.shields.io/badge/Transformers-yellow?style=flat"/>
-<img src="https://img.shields.io/badge/HuggingFace-orange?style=flat"/>
-<img src="https://img.shields.io/badge/RAG-blueviolet?style=flat"/>
-<img src="https://img.shields.io/badge/LangChain-green?style=flat"/>
+<img src="https://img.shields.io/badge/Neural%20Networks-red"/>
+<img src="https://img.shields.io/badge/CNN-orange"/>
+<img src="https://img.shields.io/badge/LSTM-blue"/>
 </p>
+
+---
+
+### 💬 NLP, LLM & Generative AI
+<p>
+<img src="https://img.shields.io/badge/Transformers-yellow"/>
+<img src="https://img.shields.io/badge/HuggingFace-orange"/>
+<img src="https://img.shields.io/badge/LLMs-blueviolet"/>
+<img src="https://img.shields.io/badge/Generative%20AI-green"/>
+<img src="https://img.shields.io/badge/RAG-purple"/>
+<img src="https://img.shields.io/badge/LangChain-darkgreen"/>
+<img src="https://img.shields.io/badge/Prompt%20Engineering-blue"/>
+<img src="https://img.shields.io/badge/Agentic%20AI-red"/>
+<img src="https://img.shields.io/badge/LangGraph-black"/>
+</p>
+
+---
 
 ### ⚙️ MLOps & Deployment
 <p>
+<img src="https://img.shields.io/badge/MLflow-blue"/>
+<img src="https://img.shields.io/badge/DVC-purple"/>
 <img src="https://skillicons.dev/icons?i=docker,aws,git,github" />
 <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi"/>
-<img src="https://img.shields.io/badge/MLflow-blue?style=flat"/>
-<img src="https://img.shields.io/badge/DVC-purple?style=flat"/>
+<img src="https://img.shields.io/badge/CI/CD-red"/>
+<img src="https://img.shields.io/badge/AWS%20EC2-orange"/>
 </p>
 
 ---
